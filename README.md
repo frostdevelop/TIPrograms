@@ -1,2 +1,2 @@
-# random
-Random things we made
+# TI programs
+Here's a collection of random calculator programs we made!
